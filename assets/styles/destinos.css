@@ -1,0 +1,60 @@
+#destinos {
+    display: flex;
+    width: 100%;
+    height: 520px;
+    background-image: url(/Projeto_Equipe/img/explore-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    flex-wrap: wrap;
+}
+
+.destinosContainer {
+    width: 85%;
+    display: flex;
+    align-items: end;
+    flex-direction: column;
+}
+
+.destinos {
+    color: var(--corTexto1);
+    text-align: left;
+    padding-left: 60%;
+    
+}
+
+.destinos h2 {
+    font-family: var(--fontTitulo2);
+    color: var(--corTitulo1);
+    margin-bottom: 20px;
+    margin-top: 90px;
+    border-bottom: solid #120053;
+    font-size: 40px;
+    font-weight: 790;
+}
+
+.destinos p {
+    font-family: var(--fontTexto1);
+    font-size: 20px;    
+    margin-bottom: 25px;
+    font-style: italic;
+}
+
+.destinos a {
+    display: flex;
+    justify-content: center;
+    border: solid var(--corBotao);
+    background-color: var(--corBotao);
+    border-radius:20px;
+    color: var(--corTexto1);
+    border: solid #000342;
+    background-color: var(--corBotao);
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 19px;
+    width: 175px;
+    font-family: var(--fontLink);
+}
+
+
+

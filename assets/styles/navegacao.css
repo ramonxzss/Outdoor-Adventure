@@ -1,0 +1,23 @@
+#navegacao {
+    display: flex;
+    width: 100%;
+    height: 80px;
+    background: var(--corGradiant);
+    align-items: center;
+    justify-content: space-around;    
+}
+
+#navegacao h1 {
+    display: flex;
+    color: #fff;
+    align-items: center;
+}
+
+#navegacao li {
+    display: inline-block;
+    margin: 10px;
+}
+
+#navegacao a {
+    color: #fff;
+}

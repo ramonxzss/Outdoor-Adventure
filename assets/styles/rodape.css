@@ -1,0 +1,8 @@
+#rodape {
+    background: var(--corGradiant);
+    color: var(--corTexto1);
+    text-align: center;
+    padding: 30px 20px;
+    font-size: 14px;
+}
+

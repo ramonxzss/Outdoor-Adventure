@@ -1,0 +1,21 @@
+#citacao {
+    display: flex;
+    background-color: #b9b9b9;
+    width: 100%;
+    height: 160px;
+    align-items: center;
+    margin: none;
+    justify-content: space-evenly;
+}
+
+#citacao img {
+    display: flex;
+    width: 70px;
+}
+
+#citacao blockquote {
+    font-size: 30px;
+    font-family: var(--fontCitacao);
+}
+
+
