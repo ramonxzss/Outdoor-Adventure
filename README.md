@@ -1,2 +1,2 @@
 # Outdoor-Adventure
-Repositorio do meu primeiro projeto em equipe
+Repositorio do meu primeiro projeto em equipe.
